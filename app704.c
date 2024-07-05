@@ -18,6 +18,6 @@ void main()
         printf("50-59 Grade %c\n", grade);
         break;
     default:
-        printf("0-49 Grade F = %c\n", grade);
+        printf("0-49 Grade F or error = %c\n", grade);
     }
 }
