@@ -1,0 +1,16 @@
+1. score >= 80 and <= 100 ; Grade A
+    80 -> 100
+2. score >= 75 and <= 79 ; Grade B+
+    75 -> 79
+3. score >= 70 and <= 74 ; Grade B
+    70 -> 74
+4. score >= 65 and <= 69 ; Grade C+
+    65 -> 69
+5. score >= 60 and <= 64 ; Grade C
+    60 -> 64
+6. score >= 55 and <= 59 ; Grade D+
+    55 -> 59
+7. score >= 50 and <= 54 ; Grade D
+    50 -> 54
+8. score >= 0 and <= 49 ; Grade F
+    0 -> 49
